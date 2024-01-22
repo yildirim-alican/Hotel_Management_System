@@ -1,0 +1,120 @@
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\bin\Debug\DPU Otel Sistemi.exe.config
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\bin\Debug\DPU Otel Sistemi.exe.manifest
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\bin\Debug\DPU Otel Sistemi.application
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\bin\Debug\DPU Otel Sistemi.exe
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\bin\Debug\DPU Otel Sistemi.pdb
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\bin\Debug\CircularProgressBar.dll
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\bin\Debug\WinFormAnimation.dll
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\DPU Otel Sistemi.csproj.AssemblyReference.cache
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\Otel.rezarvasyon.resources
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\Otel.Baslangic.resources
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\Otel.fatura.resources
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\Otel.Ekstram.resources
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\Otel.Kayitiptal.resources
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\Otel.musekle.resources
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\Otel.Giriş.resources
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\Otel.musduzenle.resources
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\Otel.Properties.Resources.resources
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\Otel.rez.resources
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\Otel.lokantafiyat.resources
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\Otel.Musyonet.resources
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\Otel.anasayfa.resources
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\Otel.odalar.resources
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\Otel.odatur.resources
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\Otel.Odakayit.resources
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\Otel.duzenle2.resources
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\Otel.faturabilgi.resources
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\Otel.notlar.resources
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\Otel.loglar.resources
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\Otel.Yenirez.resources
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\Otel.yetkili.resources
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\DPU Otel Sistemi.csproj.GenerateResource.cache
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\DPU Otel Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\DPU Otel Sistemi.TrustInfo.xml
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\DPU Otel Sistemi.exe.manifest
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\DPU Otel Sistemi.application
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\DPU Otel Sistemi.csproj.CopyComplete
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\DPU Otel Sistemi.exe
+C:\Users\asd\Desktop\Basic-Automation-Project\Otel\obj\Debug\DPU Otel Sistemi.pdb
+C:\Users\asd\Desktop\Otel Sistemi\Otel\bin\Debug\DPU Otel Sistemi.exe.config
+C:\Users\asd\Desktop\Otel Sistemi\Otel\bin\Debug\DPU Otel Sistemi.exe.manifest
+C:\Users\asd\Desktop\Otel Sistemi\Otel\bin\Debug\DPU Otel Sistemi.application
+C:\Users\asd\Desktop\Otel Sistemi\Otel\bin\Debug\DPU Otel Sistemi.exe
+C:\Users\asd\Desktop\Otel Sistemi\Otel\bin\Debug\DPU Otel Sistemi.pdb
+C:\Users\asd\Desktop\Otel Sistemi\Otel\bin\Debug\CircularProgressBar.dll
+C:\Users\asd\Desktop\Otel Sistemi\Otel\bin\Debug\WinFormAnimation.dll
+C:\Users\asd\Desktop\Otel Sistemi\Otel\bin\Debug\CircularProgressBar.xml
+C:\Users\asd\Desktop\Otel Sistemi\Otel\bin\Debug\WinFormAnimation.xml
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\DPU Otel Sistemi.csproj.AssemblyReference.cache
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\Otel.rezarvasyon.resources
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\Otel.Baslangic.resources
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\Otel.fatura.resources
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\Otel.Ekstram.resources
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\Otel.Kayitiptal.resources
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\Otel.musekle.resources
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\Otel.Giriş.resources
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\Otel.musduzenle.resources
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\Otel.Properties.Resources.resources
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\Otel.rez.resources
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\Otel.lokantafiyat.resources
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\Otel.Musyonet.resources
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\Otel.anasayfa.resources
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\Otel.odalar.resources
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\Otel.odatur.resources
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\Otel.Odakayit.resources
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\Otel.duzenle2.resources
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\Otel.faturabilgi.resources
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\Otel.notlar.resources
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\Otel.loglar.resources
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\Otel.Yenirez.resources
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\Otel.yetkili.resources
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\DPU Otel Sistemi.csproj.GenerateResource.cache
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\DPU Otel Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\DPU Otel Sistemi.TrustInfo.xml
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\DPU Otel Sistemi.exe.manifest
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\DPU Otel Sistemi.application
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\DPU Otel Sistemi.csproj.CopyComplete
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\DPU Otel Sistemi.exe
+C:\Users\asd\Desktop\Otel Sistemi\Otel\obj\Debug\DPU Otel Sistemi.pdb
+C:\Users\asd\Desktop\otelson\Otel\bin\Debug\DPU Otel Sistemi.exe.config
+C:\Users\asd\Desktop\otelson\Otel\bin\Debug\DPU Otel Sistemi.exe.manifest
+C:\Users\asd\Desktop\otelson\Otel\bin\Debug\DPU Otel Sistemi.application
+C:\Users\asd\Desktop\otelson\Otel\bin\Debug\DPU Otel Sistemi.exe
+C:\Users\asd\Desktop\otelson\Otel\bin\Debug\DPU Otel Sistemi.pdb
+C:\Users\asd\Desktop\otelson\Otel\bin\Debug\CircularProgressBar.dll
+C:\Users\asd\Desktop\otelson\Otel\bin\Debug\WinFormAnimation.dll
+C:\Users\asd\Desktop\otelson\Otel\bin\Debug\CircularProgressBar.xml
+C:\Users\asd\Desktop\otelson\Otel\bin\Debug\WinFormAnimation.xml
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\DPU Otel Sistemi.csproj.AssemblyReference.cache
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.rezarvasyon.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.Baslangic.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.fatura.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.Ekstram.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.Kayitiptal.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.musekle.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.Giriş.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.musduzenle.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.Properties.Resources.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.rez.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.lokantafiyat.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.Musyonet.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.anasayfa.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.odalar.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.odatur.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.Odakayit.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.duzenle2.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.faturabilgi.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.notlar.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.loglar.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.Yenirez.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.yetkili.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\DPU Otel Sistemi.csproj.GenerateResource.cache
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\DPU Otel Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\DPU Otel Sistemi.TrustInfo.xml
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\DPU Otel Sistemi.exe.manifest
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\DPU Otel Sistemi.application
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\DPU Otel Sistemi.csproj.CopyComplete
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\DPU Otel Sistemi.exe
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\DPU Otel Sistemi.pdb
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.Resource1.resources
+C:\Users\asd\Desktop\otelson\Otel\obj\Debug\Otel.OdaKontrol.resources

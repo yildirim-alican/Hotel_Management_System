@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{80282B9F-0275-4396-9678-CFFE76487DE6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Otel</RootNamespace>
+    <AssemblyName>DPU Otel Sistemi</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>dpu-logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>BDEF97FCEB7ED7ECDF20D8007838AC1559AD626E</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Stork Otel Yönetimi_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CircularProgressBar, Version=2.6.6823.24527, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.6.6823.24527\lib\net35-client\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WinFormAnimation, Version=1.5.6298.3372, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.5.6298.3372\lib\net35-client\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Baslangic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baslangic.Designer.cs">
+      <DependentUpon>Baslangic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DPUOtelSistemi.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DPUOtelSistemi.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="OdaKontrol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OdaKontrol.Designer.cs">
+      <DependentUpon>OdaKontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hesap.cs" />
+    <Compile Include="Ekstram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ekstram.Designer.cs">
+      <DependentUpon>Ekstram.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kayitiptal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kayitiptal.Designer.cs">
+      <DependentUpon>Kayitiptal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musekle.Designer.cs">
+      <DependentUpon>musekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="odalar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="odalar.Designer.cs">
+      <DependentUpon>odalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="odatur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="odatur.Designer.cs">
+      <DependentUpon>odatur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Odakayit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Odakayit.Designer.cs">
+      <DependentUpon>Odakayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fatura.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="fatura.Designer.cs">
+      <DependentUpon>fatura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrnekDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OrnekDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="OrnekDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OrnekDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Resource1.Designer.cs" />
+    <Compile Include="rezarvasyon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="rezarvasyon.Designer.cs">
+      <DependentUpon>rezarvasyon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="duzenle2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="duzenle2.Designer.cs">
+      <DependentUpon>duzenle2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="faturabilgi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="faturabilgi.Designer.cs">
+      <DependentUpon>faturabilgi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="notlar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="notlar.Designer.cs">
+      <DependentUpon>notlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="loglar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="loglar.Designer.cs">
+      <DependentUpon>loglar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yetkili.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="yetkili.Designer.cs">
+      <DependentUpon>yetkili.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yenirez.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Yenirez.Designer.cs">
+      <DependentUpon>Yenirez.cs</DependentUpon>
+    </Compile>
+    <Compile Include="veribaglanma.cs" />
+    <Compile Include="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giris.Designer.cs">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rez.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="rez.Designer.cs">
+      <DependentUpon>rez.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lokantafiyat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="lokantafiyat.Designer.cs">
+      <DependentUpon>lokantafiyat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Musyonet.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Musyonet.Designer.cs">
+      <DependentUpon>Musyonet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musduzenle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="musduzenle.Designer.cs">
+      <DependentUpon>musduzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="anasayfa.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="anasayfa.Designer.cs">
+      <DependentUpon>anasayfa.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="OdaKontrol.resx">
+      <DependentUpon>OdaKontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource1.resx" />
+    <EmbeddedResource Include="rezarvasyon.resx">
+      <DependentUpon>rezarvasyon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Baslangic.resx">
+      <DependentUpon>Baslangic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fatura.resx">
+      <DependentUpon>fatura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ekstram.resx">
+      <DependentUpon>Ekstram.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kayitiptal.resx">
+      <DependentUpon>Kayitiptal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musekle.resx">
+      <DependentUpon>musekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giris.resx">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musduzenle.resx">
+      <DependentUpon>musduzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="rez.resx">
+      <DependentUpon>rez.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lokantafiyat.resx">
+      <DependentUpon>lokantafiyat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Musyonet.resx">
+      <DependentUpon>Musyonet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="anasayfa.resx">
+      <DependentUpon>anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="odalar.resx">
+      <DependentUpon>odalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="odatur.resx">
+      <DependentUpon>odatur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Odakayit.resx">
+      <DependentUpon>Odakayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="duzenle2.resx">
+      <DependentUpon>duzenle2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="faturabilgi.resx">
+      <DependentUpon>faturabilgi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="notlar.resx">
+      <DependentUpon>notlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loglar.resx">
+      <DependentUpon>loglar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yenirez.resx">
+      <DependentUpon>Yenirez.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yetkili.resx">
+      <DependentUpon>yetkili.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DPUOtelSistemi.xsc">
+      <DependentUpon>DPUOtelSistemi.xsd</DependentUpon>
+    </None>
+    <None Include="DPUOtelSistemi.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DPUOtelSistemi.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DPUOtelSistemi.xss">
+      <DependentUpon>DPUOtelSistemi.xsd</DependentUpon>
+    </None>
+    <None Include="OrnekDataSet.xsc">
+      <DependentUpon>OrnekDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OrnekDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>OrnekDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="OrnekDataSet.xss">
+      <DependentUpon>OrnekDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OrnekDataSet1.xsc">
+      <DependentUpon>OrnekDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="OrnekDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>OrnekDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="OrnekDataSet1.xss">
+      <DependentUpon>OrnekDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dpu-logo.ico" />
+    <None Include="Resources\mavi_yatak.bmp" />
+    <None Include="Resources\odaKontrolButton.Image.png" />
+    <None Include="Resources\icons8-menu-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 ve x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 </ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
